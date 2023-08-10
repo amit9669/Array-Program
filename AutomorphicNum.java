@@ -1,4 +1,4 @@
-package array.nasarsir;
+package array;
 
 import java.util.Scanner;
 
